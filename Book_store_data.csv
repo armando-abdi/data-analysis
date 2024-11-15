@@ -1,0 +1,11 @@
+Book Title,Author Name,Year Published,Genre Category,Units Sold,Price Before Tax (USD),Sales Tax (USD),Price After Tax (USD),Total Revenue (USD),Net Profit After Tax (USD)
+Python for Beginners,Jane Doe,2020,Programming,1000,9.97,0.7,10.67,9970.0,9270.0
+Advanced Machine Learning,John Smith,2018,Technology,350,29.99,2.1,32.09,10496.5,9761.5
+Data Science Essentials,Emily Johnson,2019,Data Science,150,37.99,2.66,40.65,5698.5,5299.5
+Mystery of the Lost City,Chris Davis,2017,Mystery,3000,3.5,0.25,3.75,10500.0,9750.0
+Thrilling Adventures,Alex Brown,2021,Adventure,1200,9.99,0.7,10.69,11988.0,11148.0
+Learning Python,Mark Lutz,2021,Programming,800,16.57,1.16,17.73,13256.0,12328.0
+Deep Learning with Python,François Chollet,2019,Artificial Intelligence,900,38.99,2.73,41.72,35091.0,32634.0
+Data Analysis with Python,Wes McKinney,2022,Data Science,700,17.6,1.23,18.83,12320.000000000002,11459.0
+Python Machine Learning,Sebastian Raschka,2020,Machine Learning,650,22.39,1.57,23.96,14553.5,13533.0
+Python for Data Science,Jake VanderPlas,2018,Data Science,750,29.48,2.06,31.54,22110.0,20565.0
